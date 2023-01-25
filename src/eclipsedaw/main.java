@@ -8,7 +8,7 @@ public class main {
 		System.out.print("miles");
 		System.out.print("gabriela");
 		System.out.print("pablo matías");
-		System.out.print("pablo");
+		System.out.print("pablo cru");
 		System.out.print("david");
 		System.out.print("óscar");
 		System.out.print("fernando");
