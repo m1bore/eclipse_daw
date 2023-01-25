@@ -24,9 +24,9 @@ public class main {
 		System.out.print("abdullah,masud");
 		System.out.print("alexandre Romaguera Micó");
 		System.out.print("daniel morales");
-		System.out.print("alexandre");
-		System.out.print("abdullah");
-		System.out.print("motahare");
+		System.out.print("alexandre");		
+		System.out.print("motahare Saidi");
+		System.out.print("ricardo raúl");		
 		System.out.print("ricardo raúl sanabria");
 		System.out.print("manuel");
 		System.out.print("mario slavkovski");
