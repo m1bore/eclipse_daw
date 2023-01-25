@@ -15,7 +15,7 @@ public class main {
 		System.out.print("angele");
 		System.out.print("hugo");
 		System.out.print("josé luis");
-		System.out.print("miguel ángel");
+		System.out.print("miguel ángel guaita");
 		System.out.print("josé antonio");
 		System.out.print("juan");
 		System.out.print("daniel");
