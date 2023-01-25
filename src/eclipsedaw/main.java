@@ -10,7 +10,7 @@ public class main {
 		System.out.print("pablo matías");
 		System.out.print("pablo");
 		System.out.print("david");
-		System.out.print("óscar");
+		System.out.print("Óscar García-bermejo");
 		System.out.print("fernando");
 		System.out.print("angele");
 		System.out.print("hugo");
