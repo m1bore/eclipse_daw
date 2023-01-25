@@ -22,14 +22,11 @@ public class main {
 		System.out.print("josé luis");
 		System.out.print("jorge lopez");
 		System.out.print("miguel ángel");
-		System.out.print("josé antonio");
-		System.out.print("juan melguizo");
-		System.out.print("daniel");
-		System.out.print("alexandre,");
+		System.out.print("josé antonio lópez");
+		System.out.print("juan melguizo");				
 		System.out.print("abdullah,masud");
 		System.out.print("alexandre Romaguera Micó");
 		System.out.print("daniel morales");
-		System.out.print("alexandre");		
 		System.out.print("motahare Saidi");		
 		System.out.print("ricardo raúl sanabria");
 		System.out.print("manuel");
