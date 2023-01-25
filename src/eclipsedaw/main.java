@@ -7,7 +7,7 @@ public class main {
 		System.out.print("lizbeth");
 		System.out.print("miles");
 		System.out.print("gabriela");
-		System.out.print("pablo matías");
+		System.out.print("pablo matías chambe");
 		System.out.print("pablo");
 		System.out.print("david");
 		System.out.print("óscar");
