@@ -24,7 +24,7 @@ public class main {
 		System.out.print("motahare");
 		System.out.print("ricardo raúl");
 		System.out.print("manuel");
-		System.out.print("mario");
+		System.out.print("mario slavkovski");
 		
 		
 	}
