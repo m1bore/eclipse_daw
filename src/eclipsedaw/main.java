@@ -4,7 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 		System.out.print("natalia");
-		System.out.print("lizbeth");
+		System.out.print("lizbeth bernal");
 		System.out.print("miles");
 		System.out.print("gabriela");
 		System.out.print("pablo matías");
@@ -12,7 +12,7 @@ public class main {
 		System.out.print("david");
 		System.out.print("óscar");
 		System.out.print("fernando");
-		System.out.print("angele");
+		System.out.print("angele garrido");
 		System.out.print("hugo");
 		System.out.print("josé luis");
 		System.out.print("miguel ángel");
