@@ -5,6 +5,7 @@ public class main {
 	public static void main(String[] args) {
 		System.out.print("natalia arnandis(graciosa)");
 		System.out.print("lizbeth");
+		System.out.print("pablo matías");
 		System.out.print("miles bosch");
 		System.out.print("gabriela");
 		System.out.print("pablo matías chambe");
