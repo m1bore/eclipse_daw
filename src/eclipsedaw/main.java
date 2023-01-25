@@ -15,6 +15,10 @@ public class main {
 		System.out.print("pablo matías chambe");
 		System.out.print("pablo cru");
 		System.out.print("david");
+		System.out.print("Óscar García-bermejo");
+		System.out.print("fernando");
+		System.out.print("angele");
+		System.out.print("hugo");
 		System.out.print("óscar");
 		System.out.print("angele garrido");
 		System.out.print("fernando garfella");
