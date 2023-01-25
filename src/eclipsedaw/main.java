@@ -19,8 +19,8 @@ public class main {
 		System.out.print("josé antonio");
 		System.out.print("juan");
 		System.out.print("daniel");
-		System.out.print("alexandre");
-		System.out.print("abdullah");
+		System.out.print("alexandre,tu nomecabras a la bamiche");
+		System.out.print("abdullah,masud");
 		System.out.print("motahare");
 		System.out.print("ricardo raúl");
 		System.out.print("manuel");
