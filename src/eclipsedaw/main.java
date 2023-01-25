@@ -3,7 +3,7 @@ package eclipsedaw;
 public class main {
 
 	public static void main(String[] args) {
-		System.out.print("natalia");
+		System.out.print("natalia arnandis(graciosa)");
 		System.out.print("lizbeth");
 		System.out.print("miles bosch");
 		System.out.print("gabriela");
