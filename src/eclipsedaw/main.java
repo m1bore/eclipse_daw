@@ -8,7 +8,7 @@ public class main {
 		System.out.print("miles");
 		System.out.print("gabriela");
 		System.out.print("pablo matías");
-		System.out.print("pablo");
+		System.out.print("pablo cru");
 		System.out.print("david");
 		System.out.print("óscar");
 		System.out.print("fernando");
@@ -20,11 +20,13 @@ public class main {
 		System.out.print("juan");
 		System.out.print("daniel");
 		System.out.print("alexandre Romaguera Micó");
+		System.out.print("daniel morales");
+		System.out.print("alexandre");
 		System.out.print("abdullah");
 		System.out.print("motahare");
 		System.out.print("ricardo raúl");
 		System.out.print("manuel");
-		System.out.print("mario");
+		System.out.print("mario slavkovski");
 		
 		
 	}
