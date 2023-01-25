@@ -24,6 +24,14 @@ public class main {
 		System.out.print("fernando garfella");
 		System.out.print("hugo gil");
 		System.out.print("josé luis");
+		System.out.print("miguel ángel guaita");
+		System.out.print("josé antonio");
+		System.out.print("juan");
+		System.out.print("daniel");
+		System.out.print("alexandre");
+		System.out.print("abdullah");
+		System.out.print("motahare");
+		System.out.print("ricardo raúl");
 		System.out.print("jorge lopez");
 		System.out.print("miguel ángel");
 		System.out.print("josé antonio lópez");
