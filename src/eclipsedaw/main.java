@@ -13,8 +13,9 @@ public class main {
 		System.out.print("óscar");
 		System.out.print("fernando");
 		System.out.print("angele");
-		System.out.print("hugo");
+		System.out.print("hugo gil");
 		System.out.print("josé luis");
+		System.out.print("jorge lopez");
 		System.out.print("miguel ángel");
 		System.out.print("josé antonio");
 		System.out.print("juan");
