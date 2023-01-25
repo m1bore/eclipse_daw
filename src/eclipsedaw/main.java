@@ -5,7 +5,7 @@ public class main {
 	public static void main(String[] args) {
 		System.out.print("natalia");
 		System.out.print("lizbeth");
-		System.out.print("miles");
+		System.out.print("miles bosch");
 		System.out.print("gabriela");
 		System.out.print("pablo matías");
 		System.out.print("pablo");
